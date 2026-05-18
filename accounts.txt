@@ -1,0 +1,8 @@
+Acct  Last Name       First Name    Balance
+1     John            Joe           1222.00
+147563                                 5.03
+54594749                                 3.00
+-1111494912k@                               0.00
+15    sabari,         jei,          2500.00
+134217728�@                             0.00
+123   sabari          jei           2000.00
